@@ -1,3 +1,3 @@
 layout: page
 title: "RESUME"
-permalink: https://saurabhk0317.github.io/
+permalink: /files/Saurabh_Kumar_CV.pdf
