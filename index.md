@@ -1,6 +1,6 @@
 title: Saurabh Kumar
 layout: template
-filename: resume.md
+filename: index.md
 
 ## Saurabh Kumar
 
