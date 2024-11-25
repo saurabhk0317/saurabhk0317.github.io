@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV - Saurabh Kumar" [Download PDF](https://github.com/saurabhk0317/saurabhk0317.github.io/blob/main/files/Saurabh_Kumar_CV.pdf)
+title: "CV - Saurabh Kumar [Download PDF](https://github.com/saurabhk0317/saurabhk0317.github.io/blob/main/files/Saurabh_Kumar_CV.pdf)" 
 permalink: /cv/
 author_profile: true
 redirect_from:
