@@ -1,9 +1,10 @@
-
-
 ---
-layout: default
+layout: archive
 title: "CV - Saurabh Kumar"
 permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 # Curriculum Vitae  
