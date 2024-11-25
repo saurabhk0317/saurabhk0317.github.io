@@ -10,7 +10,7 @@ redirect_from:
 
 # Saurabh Kumar
 
-Welcome to my personal webpage! I am a Research Associate at the [SPIRE Lab, Indian Institute of Science (IISc), Bangalore](https://spirlab.github.io/), where I work under the guidance of Prof. Prasanta Kumar Ghosh. My research focuses on automatic speech recognition (ASR) and speech synthesis for low-resource Indian languages. I explore tasks such as dialect and domain identification to enhance ASR models and develop efficient pipelines for data curation and quality assessment.
+Welcome to my personal webpage! I am a Research Associate at the [SPIRE Lab, Indian Institute of Science (IISc), Bangalore](https://spirlab.github.io/), where I work under the guidance of Prof. Prasanta Kumar Ghosh. My research focuses on automatic speech recognition (ASR) and Dialect Identification (DID) for low-resource Indian languages. I explore tasks such as dialect and domain identification to enhance ASR models and develop efficient pipelines for data curation and quality assessment.
 
 I hold a B.Tech. in Electronics and Communication Engineering from the National Institute of Technology (NIT), Patna. My capstone project involved simulating hybrid plasmonic waveguide-based devices using COMSOL Multiphysics.
 
