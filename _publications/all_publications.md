@@ -3,6 +3,7 @@ layout: default
 title: "Publications"
 permalink: /publications/
 ---
+For a complete list of my publications, please visit my [Google Scholar](https://tinyurl.com/4pyub4pd) profile.
 
 # Publications
 
