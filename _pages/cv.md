@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Curriculum Vitae [Download PDF](https://github.com/saurabhk0317/saurabhk0317.github.io/blob/main/files/Saurabh_Kumar_CV.pdf)
+# Curriculum Vitae [[PDF]](https://github.com/saurabhk0317/saurabhk0317.github.io/blob/main/files/Saurabh_Kumar_CV.pdf)
 **Saurabh Kumar**  
 [Google Scholar](https://tinyurl.com/4pyub4pd) | [GitHub](https://github.com/saurabhk0317) | [LinkedIn](https://www.linkedin.com/in/saurabhk0317)  
 Email: saurabhk0317@gmail.com  
