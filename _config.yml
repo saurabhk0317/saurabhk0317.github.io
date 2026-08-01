@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Saurabh Kumar"
 title_separator          : "-"
 name                     : &name "Saurabh Kumar"
-description              : &description "personal description"
+description              : &description "Personal website of Saurabh Kumar, M.Tech. (Research) student at SPIRE Lab, Indian Institute of Science (IISc) Bengaluru, working on speech recognition and dialect identification for low-resource Indian languages."
 url                      : https://saurabhk0317.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/about"
 repository               : "saurabhk0317/saurabhk0317.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "saurabhk3107"
 facebook:
   username               :
   app_id                 :
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Saurabh Kumar"
   avatar           : "profile.png"
-  bio              : "Research Associate, IISc Bangalore"
+  bio              : "M.Tech. (Research) student, SPIRE Lab, IISc Bengaluru"
   location         : "Bengaluru, India"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/saurabhk0317"
+  linkedin         : "saurabhk0317" # username only -- the template prepends https://www.linkedin.com/in/
   orcid            : "https://orcid.org/0000-0003-1825-5178"
   pinterest        :
   soundcloud       :
@@ -129,12 +129,13 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - CHANGELOG.md
   - Capfile
+  - CONTRIBUTING.md
   - Gemfile
   - Gruntfile.js
   - LICENSE
-  - README
+  - README.md
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
@@ -142,6 +143,7 @@ exclude:
   - config
   - gulpfile.js
   - log
+  - markdown_generator
   - node_modules
   - package.json
   - tmp
@@ -174,34 +176,11 @@ kramdown:
 
 
 # Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+# (none -- publications and CV are maintained as regular pages under _pages/)
 
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -209,41 +188,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
